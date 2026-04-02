@@ -2,4 +2,4 @@
 <h2>testing123</h2>
 <p>test</p>
 <hr>
-![image](images/Google_Chrome_icon.png)
+<img src="images/Google_Chrome_icon.png">
